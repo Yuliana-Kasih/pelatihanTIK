@@ -16,8 +16,7 @@
 |
 
 .kartu-profil img {
-    width: 50px;
-    height: 50px;
-    object-fit: cover;
+    width: 50px
+    height: 50px
     border-radius: 50%; /* Trik untuk membuat gambar persegi menjadi lingkaran sempurna */
 }
